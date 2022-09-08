@@ -30,7 +30,7 @@
     "datatables.net-buttons-dt": "^1.5.6",
     "html-to-pdfmake": "^1.0.6",
     "html2canvas": "^1.0.0-rc.3",
-    "jszip": "^3.2.2",
+    "jszip": "^3.7.0",
     "material-icons": "^0.3.1",
     "mdbootstrap": "^4.8.7",
     "ngx-extended-pdf-viewer": "^1.0.1",
